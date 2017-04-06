@@ -1,2 +1,0 @@
-# workerDotNet
-workerDotNet
